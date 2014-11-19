@@ -1,10 +1,10 @@
 {
-  "name": "bigbox-html-serverside",
-  "version": "0.0.2",
+  "name": "bigbox-html",
+  "version": "0.0.3",
   "description": "bigbox在server端的html文档处理程序",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigboxjs/bigbox-html-serverside"
+    "url": "https://github.com/bigboxjs/bigbox-html"
   },
   "main": "index.js",
   "dependencies": {

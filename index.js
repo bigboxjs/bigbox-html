@@ -163,7 +163,7 @@ function parseBody(html) {
 	var bodyHTML = html.substring(start, end);
 
 	// 分析内容
-	var containerHTML = '<link rel="import" name="DedoCtr" />';
+	var containerHTML = '<link rel="import" name="BigboxCtr" />';
 	var index = bodyHTML.indexOf(containerHTML);
 	if (index == -1) {
 		// 这是叶子节点，不能再嵌套别的内容了
